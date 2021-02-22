@@ -3,3 +3,13 @@
 ################################################################################
 
 /.vs
+/Assignment_WEB_API_1/.vs/Assignment_WEB_API_1
+/Assignment_WEB_API_1/Assignment_WEB_API_1/App_Start
+/Assignment_WEB_API_1/packages
+/Assignment_WEB_API_1/Assignment_WEB_API_1/Areas/HelpPage
+/Assignment_WEB_API_1/Assignment_WEB_API_1/bin
+/Assignment_WEB_API_1/Assignment_WEB_API_1/Content
+/Assignment_WEB_API_1/Assignment_WEB_API_1/fonts
+/Assignment_WEB_API_1/Assignment_WEB_API_1/obj/Debug
+/Assignment_WEB_API_1/Assignment_WEB_API_1/Scripts
+/Assignment_WEB_API_1/Assignment_WEB_API_1/Views/Shared
